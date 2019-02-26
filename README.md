@@ -38,4 +38,4 @@ With pretrained Inception model [InceptionV3](https://github.com/keras-team/kera
 
 ## More details
 
-A blog post of this project is available [here](https://xuemeng-zhang.com)
+A blog post of this project is available [here](https://xuemeng-zhang.com/data%20science/2019/02/26/dog-project/)
