@@ -30,7 +30,7 @@ Fortunately, there are already well-trained CNN models that extracts the visual 
 
 What remains is fully connected layers where all these visual features are summarized and used to catergorize the input images depending on difference applications. Here we implement transfer learning to combine the pretrained model and customized layers. This achieves a high accuracy and cut down training cost at the same time.
 
-All algorithms are implemented with Python3 and [Keras](https://keras.io/).
+All algorithms are implemented with Python3 and [Keras](https://keras.io/). All code is hosted in jupyter notebook `dog_app.ipynb`
 
 ## Evaluation
 
