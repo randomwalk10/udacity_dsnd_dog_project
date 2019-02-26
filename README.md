@@ -6,9 +6,9 @@ This project detects the breeds of dogs in images, based on Convolutional Neural
 
 Given an image of a dog, predict the breed of it! There are total **133** categories of breeds in this problem set. For example, images could be containing golden retriever or poodle!
 
-![golden retriever](./myImages/gold_retriever/gold_retriever01.jpg){:height="100px" width="100px"}
+<img src="./myImages/gold_retriever/gold_retriever01.jpg" width="60" height="60">
 
-![poodle](./myImages/poodle/poodle01.jpg){:height="100px" width="100px"}
+<img src="./myImages/poodle/poodle01.jpg" width="60" height="60">
 
 A baseline is predicting by random guess. Since there are **133** breeds in this problem, it should get an accuracy around 1%. But we are expected to do much better.
 
