@@ -6,13 +6,9 @@ This project detects the breeds of dogs in images, based on Convolutional Neural
 
 Given an image of a dog, predict the breed of it! There are total **133** categories of breeds in this problem set. For example, images could be containing golden retriever or poodle!
 
-<img src="./myImages/gold_retriever/gold_retriever01.jpg"
-     alt="golden retriever"
-     style="width: 200px; height: 200px;" />
+![golden retriever](./myImages/gold_retriever/gold_retriever01.jpg){:height="100px" width="100px"}
 
-<img src="./myImages/poodle/poodle01.jpg"
-     alt="poodle"
-     style="width: 200px; height: 200px;" />
+![poodle](./myImages/poodle/poodle01.jpg){:height="100px" width="100px"}
 
 A baseline is predicting by random guess. Since there are **133** breeds in this problem, it should get an accuracy around 1%. But we are expected to do much better.
 
@@ -40,7 +36,7 @@ All algorithms are implemented with Python3 and [Keras](https://keras.io/).
 
 ## Evaluation
 
-With pretrained Inception model[InceptionV3 in keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py) and training on 6680 dog images, an accuracy > 80% is achieved on the test dataset of 836 images.
+With pretrained Inception model [InceptionV3](https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py) in keras and training on 6680 dog images, an accuracy > 80% is achieved on the test dataset of 836 images.
 
 ## More details
 
